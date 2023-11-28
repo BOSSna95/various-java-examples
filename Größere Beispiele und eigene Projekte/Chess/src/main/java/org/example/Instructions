@@ -1,0 +1,11 @@
+Create an empty chessboard using a 2D-array.
+Create the white/black pieces with following attributes: color, type, position. pieceValue.
+Place the pieces on the board according to the chess starting formation.
+Implement movement of the pieces ba asking the user which piece shall move to what position.
+Restrict movement, if other pieces are in the way of the piece you are moving.
+Implement a method to capture pieces. (Use 2 separate arrays for captured pieces for black and white).
+Display the captured pieces.
+Display the pieces with actual image.
+Implement special rules (en passant, castling, queening).
+Implement win condition.
+Implement draw-condition.

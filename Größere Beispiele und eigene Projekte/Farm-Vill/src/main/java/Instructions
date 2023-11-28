@@ -1,0 +1,7 @@
+Erstelle eine Basisklasse Tier. Diese Klasse soll allgemeine Eigenschaften wie Name und Alter haben.
+Füge eine Methode "zeigeDetails"() hinzu, die den Namen und das Alter des Tiers ausgibt.
+Erstelle spezifische Tierklassen . Leite aus der Basisklasse Tier spezifische Tierklassen ab und zwar Kuh, Schaf und Huhn.
+Eine Kuh hat als Eigenschaft die Durchschnittsmenge an Milch, die sie produziert in Liter.
+Ein Schaf hat als Eigenschaft die Durchschnittsmenge an Wolle in kg, die man von ihm erhalten kann.
+Ein Huhn hat eine Eigenschaft, die angibt wie viele Eier ein Huhn pro Tag legt.
+Erstelle eine Funktion, die nach einem bestimmen Tier suchen kann und gib dieses aus.

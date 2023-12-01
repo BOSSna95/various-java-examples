@@ -6,12 +6,9 @@ public class TranslateToDoublestar implements Translate {
 
     public String translate(String sourceWord) {
         for (int i = 0; i < sourceWord.length(); i++) {
-            translatedWord +=  (sourceWord.charAt(i));
-            if (i < sourceWord.length() - 1) {
-                translatedWord +=   "**";
-            }
+            translatedWord += (sourceWord.charAt(i) + "**");
         }
-        return translatedWord;
+        return translatedWord.substring(0, translatedWord.length() - 2);
     }
 
     public void printTranslation(String translatedWord) {

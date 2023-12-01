@@ -8,12 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         Translate [] translations = {new TranslateToSinglestar(),new TranslateToDoublestar()} ;
         String sourceWord = "Hallo";
 
         Runner myRun = new Runner (translations, sourceWord);
 
+        System.out.println("The word is: " + sourceWord);
         myRun.runProgramm();
 
     }

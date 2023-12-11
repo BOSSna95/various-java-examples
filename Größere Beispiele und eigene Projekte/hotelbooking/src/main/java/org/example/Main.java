@@ -18,7 +18,14 @@ public class Main {
         // Erstelle eine Anwendung, die Hotelbuchungen  speichert und Funktionen wie die Überprüfung der Verfügbarkeit
         // von Zimmern und die Historie von Gästeaufenthalten zeigt.
 
+        RoomAvailability roomAvailability = new RoomAvailability();
+        BookingService bookingService = new BookingService();
+        PrintBookings printBookings = new PrintBookings();
+
         ArrayList<Room> rooms = new ArrayList<>();
+        ArrayList<Customer> customers = new ArrayList<>();
+        ArrayList<Booking> bookings = new ArrayList<>();
+
         rooms.add(new Room(1));
         rooms.add(new Room(2));
         rooms.add(new Room(3));
@@ -30,16 +37,9 @@ public class Main {
         rooms.add(new Room(9));
         rooms.add(new Room(10));
 
-        ArrayList<Customer> customers = new ArrayList<>();
         customers.add(new Customer(158, Gender.MALE, "James", "Smith"));
         customers.add(new Customer(796, Gender.FEMALE, "Carrie", "Johnsan"));
         customers.add(new Customer(67, Gender.DIVERS, "John", "Krüger"));
-
-
-        ArrayList<Booking> bookings = new ArrayList<>();
-        RoomAvailability roomAvailability = new RoomAvailability();
-        BookingService bookingService = new BookingService();
-        PrintBookings printBookings = new PrintBookings();
 
         //Booking 1
         bookingService.Booking(7,
@@ -73,8 +73,8 @@ public class Main {
 
         //Trying to double book
         bookingService.Booking(2,
-                new Date(2024, 0, 15),
-                new Date(2024, 0, 20),
+                new Date(2024, 0, 16),
+                new Date(2024, 0, 19),
                 67,
                 bookings,
                 customers,

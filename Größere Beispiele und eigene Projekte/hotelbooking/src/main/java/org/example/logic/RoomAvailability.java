@@ -3,7 +3,6 @@ package org.example.logic;
 import org.example.data.Booking;
 import org.example.data.Room;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Date;
 

@@ -60,8 +60,8 @@ public class Main {
 
             if (win.checkIfWin(field, player2)) {
 
-                /*   win.nikoCanNotLose();     */
-                win.player2won(field);
+    //        win.nikoCanNotLose();
+              win.player2won(field);
 
                 break;
             }

@@ -74,7 +74,7 @@ public class Main {
         //Trying to double book
         bookingService.Booking(2,
                 new Date(2024, 0, 16),
-                new Date(2024, 0, 19),
+                new Date(2024, 0, 21),
                 67,
                 bookings,
                 customers,

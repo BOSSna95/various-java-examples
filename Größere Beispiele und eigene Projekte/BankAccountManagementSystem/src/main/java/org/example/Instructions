@@ -1,0 +1,8 @@
+
+Implement a system to manage bank accounts, customers, and transactions.
+ - Each account should have a unique account number, a type (such as savings or checking), and a balance.
+ - Customers should have a name, address, and phone number.
+ - Transactions should have a type (such as deposit or withdrawal), an amount, and a date.
+ > Create a function that retrieves all accounts with a balance greater than a certain amount.
+ > Create a function that transfers money from one account to another.
+ > Create a function that generates a monthly statement for each customer, summarizing all transactions in that month.

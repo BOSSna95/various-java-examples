@@ -14,7 +14,9 @@ public class RoomAvailability {
         for (Booking booking : bookings) {
             if (booking.getRoomNumber() == roomNumber) {
                 if (booking.getCheckInDate().after(requestedCheckInDate) && booking.getCheckInDate().before(requestedCheckOutDate) ||
-                        booking.getCheckOutDate().after(requestedCheckInDate) && booking.getCheckInDate().before(requestedCheckOutDate)) {
+                        booking.getCheckOutDate().after(requestedCheckInDate) && booking.getCheckOutDate().before(requestedCheckOutDate) ||
+                        booking.getCheckInDate().before(requestedCheckInDate) && booking.getCheckOutDate().after(requestedCheckOutDate))
+                {
                     return false;
                 }
             }

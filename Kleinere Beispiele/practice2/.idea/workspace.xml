@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df08842d-c85e-40ba-bb15-b5b560b73665" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Größere Beispiele und eigene Projekte/hotelbooking/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Größere Beispiele und eigene Projekte/hotelbooking/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Größere Beispiele und eigene Projekte/hotelbooking/src/main/java/org/example/logic/RoomAvailability.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Größere Beispiele und eigene Projekte/hotelbooking/src/main/java/org/example/logic/RoomAvailability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeKatas1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeKatas1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeKatas1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeKatas1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeKatas1/example1/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeKatas1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/.idea/practice1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice10/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice10/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice11/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice11/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice12/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice12/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice13/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice13/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice13/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice14/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice14/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice14/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice15/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice15/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice15/src/main/java/org/example/books.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice15/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice15/target/classes/org/example/books.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice16/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice16/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice16/src/main/java/org/example/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice16/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice16/target/classes/org/example/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice17/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice17/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice17/src/practice17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice17/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice18/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice18/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice18/src/main/java/org/example/Personen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice18/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice18/target/classes/org/example/Personen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice19/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice19/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice19/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice2/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice20/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice20/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice20/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice3/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice3/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice4/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice4/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice5/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice5/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice6/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice6/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice7/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice7/src/main/java/org/example/animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice7/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice7/target/classes/org/example/animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice8/src/main/java/org/example/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice8/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice8/target/classes/org/example/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice8/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice9/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice9/src/main/java/org/example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice9/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/practice9/target/classes/org/example/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice12/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice12/logic/SumGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice13/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice14/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice15/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice15/Output/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice15/logic/FillBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice16/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice16/data/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice2/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice3/Output/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice4/logic/StringManipulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice5/logic/CalculateAverages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice6/logic/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/src/main/java/practice9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice12/logic/SumGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice15/Output/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice15/logic/FillBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice16/data/Seat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice2/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice3/Output/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice4/logic/StringManipulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice5/logic/CalculateAverages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice6/logic/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice3/target/classes/practice9/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZPBqYQk8HP6nwk4hkEIBnIBwc7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Diverse Programme/various-java-examples/Kleinere Beispiele/practice3&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df08842d-c85e-40ba-bb15-b5b560b73665" name="Changes" comment="" />
+      <created>1702314029665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702314029665</updated>
+    </task>
+    <servers />
+  </component>
+</project>

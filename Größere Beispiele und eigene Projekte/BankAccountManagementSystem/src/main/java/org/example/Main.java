@@ -39,17 +39,24 @@ public class Main {
         AccountService accountService = new AccountService();
         System.out.println(accountService.getAccountWithAmountGreaterThan1(customers, 500));
         System.out.println(accountService.getAccountWithAmountLowerThan1(customers, 500));
+        System.out.println("_____________________");
 
         // Enabling transactions.
         TransactionService transactionService = new TransactionService();
-        transactionService.transfer(customers, "Nikola", "Milos", 5, LocalDate.now());
-        transactionService.transfer(customers, "Nikola", "Sema", 10, LocalDate.now());
-        transactionService.transfer(customers, "Nikola", "Andi", 500, LocalDate.now());
-        transactionService.transfer(customers, "Nikola", "Andi", 500, LocalDate.of(2023, 11, 30));
-        transactionService.transfer(customers, "Nikola", "Andi", 500, LocalDate.of(2024, 01, 01));
+        transactionService.transferByName(customers, "Nikola", "Milos", 5, LocalDate.now());
+        transactionService.transferByName(customers, "Nikola", "Sema", 10, LocalDate.now());
+        transactionService.transferByName(customers, "Nikola", "Andi", 500, LocalDate.now());
+        transactionService.transferByName(customers, "Nikola", "Andi", 500, LocalDate.of(2023, 11, 30));
+        transactionService.transferByName(customers, "Nikola", "Andi", 500, LocalDate.of(2024, 01, 01));
+        transactionService.transferByAccountID(customers, 14, 6, 250, LocalDate.now());
+        transactionService.transferByAccountID(customers, 14, 5, 250, LocalDate.now());
+
 
         // Test-printing accounts after transactions.
+        System.out.println("Nikos Account:");
         System.out.println(nikosAccounts);
+        System.out.println("_____________________");
+        System.out.println("Milos Accounts:");
         System.out.println(milosAccounts);
 
         // Printing transaction-sum for specific period.
@@ -57,5 +64,11 @@ public class Main {
         accountReports.generateCustomerReport(customers, "Nikola",
                 LocalDate.of(2023, 12, 01),
                 LocalDate.of(2023, 12, 31));
+
+        accountReports.generateCustomerReport(customers, "Milos",
+                LocalDate.of(2023, 12, 01),
+                LocalDate.of(2023, 12, 31));
     }
+
 }
+

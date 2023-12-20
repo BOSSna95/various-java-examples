@@ -1,0 +1,9 @@
+
+Online Shopping System:
+Implement an online shopping system where customers can browse products, make orders, and check out.
+ - Each product should have a product ID, name, and price.
+ - Customers should have a name, address, and email.
+ - Orders should have an order ID, date, and total price.
+ > Create a function that retrieves all products with a price less than a certain amount
+ > Create a function that calculates the total revenue of the store
+

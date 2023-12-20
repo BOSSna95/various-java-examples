@@ -4,10 +4,10 @@ import java.util.List;
 
 public class Account {
 
-    int accountID;
-    AccountType accountType;
-    int balance;
-    List<Transaction> transactions;
+    private final int accountID;
+    private final AccountType accountType;
+    private int balance;
+    private final List<Transaction> transactions;
 
 
     public Account(int accountID, AccountType accountType, int balance, List<Transaction> transactions) {
@@ -22,10 +22,7 @@ public class Account {
     public int getBalance() {return balance;}
     public List<Transaction> getTransactions() {return transactions;}
 
-    public void setAccountID(int accountID) {this.accountID = accountID;}
-    public void setAccountType(AccountType accountType) {this.accountType = accountType;}
     public void setBalance(int balance) {this.balance = balance;}
-    public void setTransactions(List<Transaction> transactions) {this.transactions = transactions;}
 
 
     @Override

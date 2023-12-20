@@ -21,7 +21,7 @@ public class TransactionService {
                 filter(account -> account.getAccountType().equals(AccountType.SAVINGS)).
                 forEach(account -> {
                     account.setBalance(account.getBalance() + amount);
-                    account.getTransactions().add(new Transaction(TransactionType.WITHDRAWAL, amount, transactionDate));
+                    account.getTransactions().add(new Transaction(TransactionType.DEPOSIT, amount, transactionDate));
                 });
     }
 
@@ -39,13 +39,7 @@ public class TransactionService {
                 filter(account -> account.getAccountID() == receiverAccountID).
                 forEach(account -> {
                     account.setBalance(account.getBalance() + amount);
-                    account.getTransactions().add(new Transaction(TransactionType.WITHDRAWAL, amount, transactionDate));
+                    account.getTransactions().add(new Transaction(TransactionType.DEPOSIT, amount, transactionDate));
                 });
     }
-
-
-
-
-
-
 }

@@ -13,9 +13,7 @@ public class AccountReports {
         customers.stream().filter(customer -> customer.firstName().equalsIgnoreCase(customerName)).
                 flatMap(n -> n.accounts().stream()).
                 flatMap(n -> n.getTransactions().stream()).
-                forEach(n -> {if (n.date().isAfter(startDate) && n.date().isBefore(endDate)) {
-                    transactionSum[0] += n.amount();}
-                });
+                forEach(n -> {if (n.date().isAfter(startDate) && n.date().isBefore(endDate)) {transactionSum[0] += n.amount();}});
         System.out.println(transactionSum[0]);
     }
 }
